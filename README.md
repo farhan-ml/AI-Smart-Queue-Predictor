@@ -116,7 +116,8 @@ AI-Smart-Queue-Predictor/
 Clone Repository
 
 ```bash
-[git clone https://github.com/farhan-ml/AI-Smart-Queue-Predictor.git
+[git clone https://github.com/farhan-ml/AI-Smart-Queue-Predictor
+.git
 ]```
 
 Open Project
